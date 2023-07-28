@@ -15,7 +15,7 @@ Instead of this kind of design,we can do data transformations,model training and
 
 Using this design concept, I am going to solve following business problem.
 
-**Business Problem**
+* **Business Problem**
 
 Our organization unraveled a case of expense report fraud among several employees.
 
@@ -24,3 +24,23 @@ Employees were allowed to submit expense reports of up to $40 without a receipt,
 Management would like to know how much we believe employees took above and beyond the expected amounts.
 
 To solve this problem,expenses amount of the person will be predited using the Randomforest rgression algorithm.In here no need to build data pipeline.But instead training and inference component should be build inside th database.SQL server "stored prcedure" has been used for creating those two pipeline inside th database.
+
+* **EDA**
+
+<p align="center">
+  <img width="30%" height="40%" src="Results/eda.png">
+</p>
+
+* **Results**
+
+**True Value for Expense Amount**
+
+<p align="center">
+  <img width="30%" height="40%" src="Results/true_value.png">
+</p>
+
+**Predicted Value for Expense Amount**
+
+<p align="center">
+  <img width="30%" height="40%" src="Results/predicted_value.png">
+</p>
