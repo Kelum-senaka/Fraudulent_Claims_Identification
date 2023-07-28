@@ -11,6 +11,8 @@ Instead of this kind of design,we can do data transformations,model training and
 
 ![Employee data](Images/in_db.png?raw=true "Employee Data title")
 
+<img src="Images/in_db.png" width="50%" height="50%">
+
 Using this design concept, I am going to solve following business problem.
 
 ## Business PROBLEM 
