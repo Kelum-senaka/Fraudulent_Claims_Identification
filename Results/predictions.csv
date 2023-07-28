@@ -1,0 +1,37 @@
+EmployeeName,ExpenseCategory,NumberOfExpenseReports,Total,TotalPredicted,MAE,MAPE
+Barret Bonden,Expensive City,74,6958.29,6679.98,3.76,4.00
+Barret Bonden,Inexpensive City,82,1899.94,1966.36,0.81,-3.50
+Barret Bonden,Moderately Expensive City,86,3508.74,3403.88,1.22,2.99
+Clarissa Oakes,Expensive City,80,7011.01,7221.60,2.63,-3.00
+Clarissa Oakes,Inexpensive City,75,1786.73,1798.50,0.16,-0.66
+Clarissa Oakes,Moderately Expensive City,68,2760.24,2691.44,1.01,2.49
+Diana Villiers,Expensive City,86,7519.94,7763.22,2.83,-3.24
+Diana Villiers,Inexpensive City,69,1675.29,1654.62,0.30,1.23
+Diana Villiers,Moderately Expensive City,79,3159.10,3126.82,0.41,1.02
+Ebenezer Graham,Expensive City,78,7009.15,7041.06,0.41,-0.46
+Ebenezer Graham,Inexpensive City,74,2923.94,1774.52,15.53,39.31
+Ebenezer Graham,Moderately Expensive City,74,3212.76,2928.92,3.84,8.83
+Emily Sweeting,Expensive City,77,6931.63,6950.79,0.25,-0.28
+Emily Sweeting,Inexpensive City,74,1737.05,1774.52,0.51,-2.16
+Emily Sweeting,Moderately Expensive City,76,3109.52,3008.08,1.33,3.26
+Jack Aubrey,Expensive City,67,5882.46,6048.09,2.47,-2.82
+Jack Aubrey,Inexpensive City,88,2151.94,2110.24,0.47,1.94
+Jack Aubrey,Moderately Expensive City,78,3173.28,3087.24,1.10,2.71
+Molly Harte,Expensive City,63,5599.72,5687.01,1.39,-1.56
+Molly Harte,Inexpensive City,66,2605.72,1582.68,15.50,39.26
+Molly Harte,Moderately Expensive City,58,2538.12,2295.64,4.18,9.55
+Nathaniel Martin,Expensive City,76,6635.59,6860.52,2.96,-3.39
+Nathaniel Martin,Inexpensive City,72,2847.35,1726.56,15.57,39.36
+Nathaniel Martin,Moderately Expensive City,77,3435.61,3047.66,5.04,11.29
+Sophia Aubrey,Expensive City,81,7213.90,7311.87,1.21,-1.36
+Sophia Aubrey,Inexpensive City,73,2882.40,1750.54,15.50,39.27
+Sophia Aubrey,Moderately Expensive City,89,3954.29,3522.62,4.85,10.92
+Stephen Maturin,Expensive City,75,6556.14,6770.25,2.85,-3.27
+Stephen Maturin,Inexpensive City,61,1441.11,1462.78,0.36,-1.50
+Stephen Maturin,Moderately Expensive City,67,2763.37,2651.86,1.66,4.04
+William Babbington,Expensive City,76,6827.88,6860.52,0.43,-0.48
+William Babbington,Inexpensive City,76,2999.70,1822.48,15.49,39.24
+William Babbington,Moderately Expensive City,74,3237.72,2928.92,4.17,9.54
+William Mowett,Expensive City,82,7518.96,7402.14,1.42,1.55
+William Mowett,Inexpensive City,65,1628.49,1558.70,1.07,4.29
+William Mowett,Moderately Expensive City,83,3267.67,3285.14,0.21,-0.53
