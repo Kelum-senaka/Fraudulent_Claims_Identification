@@ -15,7 +15,7 @@ Instead of this kind of design,we can do data transformations,model training and
 
 Using this design concept, I am going to solve following business problem.
 
-## Business PROBLEM 
+* Business Problem
 
 Our organization unraveled a case of expense report fraud among several employees.
 
