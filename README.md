@@ -28,7 +28,7 @@ To solve this problem,expenses amount of the person will be predited using the R
 * **EDA**
 
 <p align="center">
-  <img width="30%" height="40%" src="Results/eda.png">
+  <img width="60%" height="80%" src="Results/eda.png">
 </p>
 
 * **Results**
@@ -36,11 +36,11 @@ To solve this problem,expenses amount of the person will be predited using the R
 **True Value for Expense Amount**
 
 <p align="center">
-  <img width="30%" height="40%" src="Results/true_value.png">
+  <img width="60%" height="80%" src="Results/true_value.png">
 </p>
 
 **Predicted Value for Expense Amount**
 
 <p align="center">
-  <img width="30%" height="40%" src="Results/predicted_value.png">
+  <img width="60%" height="80%" src="Results/predicted_value.png">
 </p>
