@@ -3,11 +3,11 @@
 
 When we design the ML system,normaly we do data movement from the database for data transformation and model training purpose through the feature engineering pipeline.But it consumes more resources to create this data pipeline.Following image desribes entire process for this type of ML system.
 
-<img src="Images/in_db.png" width="20%" height="30%">
+<img src="Images/in_db.png" width="25%" height="35%" align="center">
 
 Instead of this kind of design,we can do data transformations,model training and scoring inside the databse.Using the SQL server,It can be enabled this feature in our ML system.Then it is not required to build a feature engineering(data movement is not required) pipeline separately.Then entire process as follows.
 
-<img src="Images/out_db.webp" width="20%" height="30%">
+<img src="Images/out_db.webp" width="25%" height="35%" align="center">
 
 Using this design concept, I am going to solve following business problem.
 
